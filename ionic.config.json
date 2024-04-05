@@ -1,0 +1,8 @@
+{
+  "name": "Gorilla V2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "681703eb"
+}
